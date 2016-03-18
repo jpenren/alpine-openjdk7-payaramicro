@@ -9,4 +9,4 @@ RUN mkdir -p /opt/payara-micro/webapps &&\
 
 EXPOSE 8080
 
-ENTRYPOINT java -jar payara-micro-$VERSION.jar --deploymentDir /opt/payara-micro/webapps
+ENTRYPOINT java -jar /opt/payara-micro/payara-micro-$VERSION.jar --deploymentDir /opt/payara-micro/webapps
