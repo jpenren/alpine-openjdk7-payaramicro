@@ -1,6 +1,6 @@
 # alpine-openjdk7-payaramicro
 
-Minimal payara micro image (134 MB) over alpine linux
+Minimal Payara Micro image (134 MB) over alpine linux. This image run Payara Micro on port 8080 and deploy any war files in `/opt/payara-micro/webapps`
 
 Usage
 
