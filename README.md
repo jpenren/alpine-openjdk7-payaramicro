@@ -1,5 +1,7 @@
 # alpine-openjdk7-payaramicro
 
+Minimal payara micro image (134 MB) over alpine linux
+
 Usage
 
 ```
